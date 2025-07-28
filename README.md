@@ -54,5 +54,5 @@ ds_kashishkamra/
 ## 📧 Submission
 
 - Colab Notebook: [https://colab.research.google.com/drive/14wD8Maxqi41QlkaVjUov4WR160RML1I3?usp=sharing]
-- GitHub Repo: [Insert GitHub Repo Link here]
+- GitHub Repo: [https://github.com/kamra202/ds_kashishkamra]
 
